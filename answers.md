@@ -36,4 +36,26 @@ On revient à l'état initiale, notre fichiers README.md disparait quand on chec
 
 ### Task 7
 
+1. c'est la branche develop
+
+2. c'est commit hash abrégé
+
+3. message du commit
+
+4. personne ayant effectué le commit
+
+5. branche main
+
+6. commit de la branche developp
+
+7. commit de la branche feature-auth
+
+8. commit de la branche main
+
+9. branche develop
+
+10. branche main
+
+
+
 ![Gitgraph](img/gitgraph.svg)
