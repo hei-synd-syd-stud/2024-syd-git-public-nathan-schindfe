@@ -30,6 +30,8 @@ Un nouveau fichiers README.md est apparu avec le contenu que nous venons d'ajout
 
 ### Task 6
 
+On revient à l'état initiale, notre fichiers README.md disparait quand on checkout sur le initial commit. Et ca revient normal sur le checkout du dernier commit.
+
 ## Gitgraph
 
 ### Task 7
